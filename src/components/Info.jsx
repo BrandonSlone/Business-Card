@@ -7,7 +7,7 @@ export default function Info() {
       <h3>www.BrandonSloneTuba.com</h3>
       <div className="buttons">
         <button className="grid-email-button">
-          <img src="images\Icon (3).png" className="email"></img>Email
+          <img src="src\assets\images\Icon (3).png" className="email"></img>Email
         </button>
         <button className="grid-linkedin-button">
           <img src="images\Vector.png" className="vector"></img>LinkedIn
