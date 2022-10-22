@@ -1,7 +1,7 @@
 export default function Info() {
   return (
     <div className="grid-info">
-      <img src="assets\images\tubaPic(3).jpg"></img>
+      <img src="assets/images/tubaPic(3).jpg"></img>
       <h1>Brandon Slone</h1>
       <h2>Tuba Player</h2>
       <h3>www.BrandonSloneTuba.com</h3>
