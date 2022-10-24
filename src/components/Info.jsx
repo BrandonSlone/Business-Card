@@ -6,7 +6,7 @@ export default function Info() {
       <h2>Tuba Player</h2>
       <h3>www.BrandonSloneTuba.com</h3>
       <div className="buttons">
-        <button className="grid-email-button" onClick={window.open('mailto:email@example.com?subject=Subject&body=Body%20goes%20here')}>
+        <button className="grid-email-button">
           <img src="src\components\images\Icon (3).png" className="email"></img>Email
         </button>
         <button className="grid-linkedin-button" onClick={()=> window.open('https://www.linkedin.com/','_blank')}>
