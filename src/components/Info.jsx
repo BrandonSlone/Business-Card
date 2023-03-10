@@ -9,8 +9,8 @@ export default function Info() {
         <button className="grid-email-button">
           <img src="/images/Icon(3).png" className="email"></img>Email
         </button>
-        <button className="grid-linkedin-button" onClick={()=> window.open('https://www.linkedin.com/','_blank')}>
-          <img src="/images/Vector.png" className="vector"></img>LinkedIn
+        <button className="grid-resume-button" onClick={()=> window.open('C:\Users\Twili\Coding\React Business Card\public\Brandon_Slone_-_Tuba_Player.pdf','_blank')}>
+          <img src="/images/Vector.png" className="vector"></img>Resume
         </button>
       </div>
     </div>
