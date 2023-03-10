@@ -9,7 +9,7 @@ export default function Info() {
         <button className="grid-email-button">
           <img src="/images/Icon(3).png" className="email"></img>Email
         </button>
-        <button className="grid-resume-button" onClick={()=> window.open('C:\Users\Twili\Coding\React Business Card\public\BrandonSloneTubaPlayer.pdf','_blank')}>
+        <button className="grid-resume-button" onClick={()=> window.open('/images/BrandonSloneTubaPlayer.pdf','_blank')}>
           Resume
         </button>
       </div>
