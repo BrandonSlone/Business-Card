@@ -9,7 +9,7 @@ export default function Info() {
         <button className="grid-email-button" onClick={() => window.location = 'mailto:brandonslone1290@gmail.com'}>
           <img src="/images/Icon(3).png" className="email"></img>Email
         </button>
-        <button className="grid-resume-button" onClick={()=> window.open('/images/BrandonSloneTubaPlayer.pdf','_blank')}>
+        <button className="grid-resume-button" onClick={()=> window.open('/images/BrandonTuba.pdf','_blank')}>
           Resume
         </button>
       </div>
